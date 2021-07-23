@@ -3,8 +3,6 @@
 
 > A Advanced Discord Music Bot Made With Lavalink And  Have Many Premium Features with filters and more will be add soon
 
-## About Moon Music 🚧
-
 - A open source Discord bot recoded in JavaScript with [Discord.js](https://discord.js.org/#/) & [Lava link](https://www.npmjs.com/package/lavalink) by My Team.
 - It Is Easy To Host In Vistual Studio Code And Replit 
 
@@ -76,5 +74,5 @@
 
 # License ©
 
-Moon Music is licensed under the MIT License . See the file LICENSE for more information. If you plan to use any part of this source code in your own bot, I would be grateful if you would include some form of credit somewhere.
+ licensed under the MIT License . See the file LICENSE for more information. If you plan to use any part of this source code in your own bot, I would be grateful if you would include some form of credit somewhere.
 
