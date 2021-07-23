@@ -1,6 +1,6 @@
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Msv" src="https://media.discordapp.net/attachments/840903410655166464/853924889333727242/circle-cropped_1.png?width=427&height=427"> 
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Msv" src="https://cdn.discordapp.com/attachments/849939952421961748/868080392811470908/856567242739941457.gif"> 
 
-# Moon Music 🎵
+
 > A Advanced Discord Music Bot Made With Lavalink And  Have Many Premium Features with filters and more will be add soon
 
 ## About Moon Music 🚧
